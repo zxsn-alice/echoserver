@@ -1,0 +1,10 @@
+C:\Users\iRentals\source\repos\echoserver\echoserver\bin\Debug\netcoreapp2.0\echoserver.deps.json
+C:\Users\iRentals\source\repos\echoserver\echoserver\bin\Debug\netcoreapp2.0\echoserver.runtimeconfig.json
+C:\Users\iRentals\source\repos\echoserver\echoserver\bin\Debug\netcoreapp2.0\echoserver.runtimeconfig.dev.json
+C:\Users\iRentals\source\repos\echoserver\echoserver\bin\Debug\netcoreapp2.0\echoserver.dll
+C:\Users\iRentals\source\repos\echoserver\echoserver\bin\Debug\netcoreapp2.0\echoserver.pdb
+C:\Users\iRentals\source\repos\echoserver\echoserver\obj\Debug\netcoreapp2.0\echoserver.csproj.CoreCompileInputs.cache
+C:\Users\iRentals\source\repos\echoserver\echoserver\obj\Debug\netcoreapp2.0\echoserver.AssemblyInfoInputs.cache
+C:\Users\iRentals\source\repos\echoserver\echoserver\obj\Debug\netcoreapp2.0\echoserver.AssemblyInfo.cs
+C:\Users\iRentals\source\repos\echoserver\echoserver\obj\Debug\netcoreapp2.0\echoserver.dll
+C:\Users\iRentals\source\repos\echoserver\echoserver\obj\Debug\netcoreapp2.0\echoserver.pdb
